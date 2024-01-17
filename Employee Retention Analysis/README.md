@@ -76,7 +76,7 @@ Similarly, the following KPIs are given by the company to conclude:
 10. Monthly New Hire vs Attrition Trendline
 11. Department / Job Role wise job satisfaction
 
-**Data Visualization** - PowerBI
+**Data Visualization**
 - **Power BI:** Used for in-depth data visualization and analysis.
 - **Tableau:** Employed for additional visualizations and interactive dashboards.
 - **Excel:** Utilized for data extraction, transformation, and analyzed above-mentioned KPIs with Charts and Pivot tables.
