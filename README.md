@@ -11,8 +11,8 @@ This Repository contains Internship and Personal Projects.
 
  **(2) COVID-19 Analysis** - Personal Project
 1. [Global COVID-19 Tracker Using Tableau](https://public.tableau.com/app/profile/dipali.hiremani/viz/covid_impact/Dashboard1)
-2. [Global COVID-19 Vaccination Tracker Using Tableau (https://public.tableau.com/app/profile/dipali.hiremani/viz/Covid_Vaccination_Tracker/Dashboard1)
-3. [COVID-19 In India Using Power BI and Python]((https://app.powerbi.com/groups/me/reports/249ce6da-fee4-4a0c-9d15-726d59aa73e6/ReportSection7e9afd357ec13e8c007a?experience=power-bi)
+2. [Global COVID-19 Vaccination Tracker Using Tableau](https://public.tableau.com/app/profile/dipali.hiremani/viz/Covid_Vaccination_Tracker/Dashboard1)
+3. [COVID-19 In India Using Power BI and Python](https://app.powerbi.com/groups/me/reports/249ce6da-fee4-4a0c-9d15-726d59aa73e6/ReportSection7e9afd357ec13e8c007a?experience=power-bi)
 
 
 
