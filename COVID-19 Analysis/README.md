@@ -38,8 +38,8 @@ COVID-19 in India Project uses [Github Data (2020-2021)](https://github.com/abhi
 **Solution:** Broke down complex calculations into simpler steps, and used variables to store intermediate results.
 
 **Data Visualization**
-- [**Power BI:**](https://app.powerbi.com/groups/me/reports/249ce6da-fee4-4a0c-9d15-726d59aa73e6/ReportSectioncd265f2e68411169a698?experience=power-bi)** 
-- [**Tableau:**](https://public.tableau.com/app/profile/dipali.hiremani/vizzes) 
+- [**Power BI**](https://app.powerbi.com/groups/me/reports/249ce6da-fee4-4a0c-9d15-726d59aa73e6/ReportSectioncd265f2e68411169a698?experience=power-bi)
+- [**Tableau**](https://public.tableau.com/app/profile/dipali.hiremani/vizzes) 
 - **Python**
 
 ## Summary of Findings
