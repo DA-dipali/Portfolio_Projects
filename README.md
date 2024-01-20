@@ -15,6 +15,6 @@ This Repository contains Internship and Personal Projects.
 3. [COVID-19 In India Using Power BI and Python](https://app.powerbi.com/groups/me/reports/249ce6da-fee4-4a0c-9d15-726d59aa73e6/ReportSection7e9afd357ec13e8c007a?experience=power-bi)
 
 **(3) Sales Analysis** - Personal Project
-1. [Sales Analysis Using Excel]()
-2. [Sales Analysis Using Tableau]()
+1. [Sales Analysis Using Excel](https://github.com/DA-dipali/Data_Analyst_Course/blob/main/Assignments/Advanced%20Excel/Solutions/Assignment%205%20Sol.xlsx)
+2. [Sales Analysis Using Tableau](https://github.com/DA-dipali/Data_Analyst_Course/tree/main/Assignments/Tableau/Solutions)
 
