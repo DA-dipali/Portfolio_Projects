@@ -40,7 +40,7 @@ COVID-19 in India Project uses [Github Data (2020-2021)](https://github.com/abhi
 **Data Visualization**
 - [**Power BI**](https://app.powerbi.com/groups/me/reports/249ce6da-fee4-4a0c-9d15-726d59aa73e6/ReportSectioncd265f2e68411169a698?experience=power-bi)
 - [**Tableau**](https://public.tableau.com/app/profile/dipali.hiremani/vizzes) 
-- **Python**
+- [**Python**](https://github.com/DA-dipali/Portfolio_Projects/tree/main/COVID-19%20Analysis/COVID-19%20in%20India%20Power%20BI)
 
 ## Summary of Findings
  - Global COVID-19 Tracker:
