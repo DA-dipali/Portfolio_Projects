@@ -1,11 +1,11 @@
 ## Employee Retention Analysis
 
 ## Introduction:
-In today's data-driven world, organizations rely on data analysis to gain valuable insights into various aspects of their operations. One crucial area is human resources (HR), where analyzing employee data can provide valuable information about the workforce. In this article, we will explore a comprehensive analysis of HR data, including the gender breakdown, work-life balance and job satisfaction Impact on turnover, age demographics, distance from home wise distribution, employment length, gender distribution across departments and job titles, job title distribution, turnover rate by department, and changes in employee count over time. The analysis is conducted using MySQL for data cleaning and analysis, and Excel, Tableau and PowerBI for data visualization.
+In today's data-driven world, organizations rely on data analysis to gain valuable insights into various aspects of their operations. One crucial area is human resources (HR), where analyzing employee data can provide valuable information about the workforce. In this article, we will explore a comprehensive analysis of HR data, including the gender breakdown, work-life balance, and job satisfaction Impact on turnover, age demographics, distance from home wise distribution, employment length, gender distribution across departments and job titles, job title distribution, turnover rate by department, and changes in employee count over time. The analysis is conducted using MySQL for data cleaning and analysis, and Excel, Tableau, and PowerBI for data visualization.
 ## Data Used:
 The analysis is based on HR data consisting of over 50,000 rows from the year 1982 to 2021. The dataset includes information such as employee IDs, gender, work-life balance, job satisfaction rating, age, Business Travel, education, monthly rate, distance from home, attrition, hire and termination dates, departments, and job roles.
 
-**Data Transformation using Power Query Editor** - Calculated necessary measures like Financial Month, and Financial Quarter using Excel Formulas, combined 'hr-1' and 'hr-2' files using Merge Queries, changed data types, created new columns to meet needs. Loaded data in Excel And Power BI.
+**Data Transformation using Power Query Editor** - Calculated necessary measures like Financial Month, and Financial Quarter using Excel Formulas, combined 'hr-1' and 'hr-2' files using Merge Queries, changed data types, and created new columns to meet needs. Loaded data in Excel And Power BI.
 
 **Data Cleaning & Analysis** -
 The provided MySQL code performs various data cleaning and transformation steps on the 'hr-1' and 'hr-2' tables in the 'employee_retention' database. Here's a breakdown of each step:
@@ -79,7 +79,7 @@ Similarly, the following KPIs are given by the company to conclude:
 **Data Visualization**
 - **Power BI:** Used for in-depth data visualization and analysis.
 - **Tableau:** Employed for additional visualizations and interactive dashboards.
-- **Excel:** Utilized for data extraction, transformation, and analyzed above-mentioned KPIs with Charts and Pivot tables.
+- **Excel:** Utilized for data extraction, transformation, and analyzed KPIs mentioned above with Charts and Pivot tables.
 
 
 ## Summary of Findings
@@ -101,4 +101,4 @@ Similarly, the following KPIs are given by the company to conclude:
 
 ## Conclusion
 
-Employee retention is not only about saving costs but also about ensuring the stability, productivity, and long-term success of a company. 
+After conducting an employee retention analysis, it was identified that factors such as competitive compensation, professional development opportunities, and a positive work environment significantly contribute to higher retention rates. Additionally, targeted interventions addressing these aspects can play a crucial role in fostering employee satisfaction and loyalty, ultimately reducing turnover. Implementing strategic initiatives focused on improving these key areas is essential for enhancing overall employee retention.
