@@ -15,4 +15,8 @@ This Repository contains Internship and Personal Projects.
 3. [COVID-19 In India Using Power BI](https://app.powerbi.com/groups/me/reports/249ce6da-fee4-4a0c-9d15-726d59aa73e6/ReportSection7e9afd357ec13e8c007a?experience=power-bi)
 4. [COVID-19 In India Using Python](COVID-19%20Analysis/COVID-19%20in%20India%20Power%20BI/COVID-19%20In%20India%20Analysis.ipynb)
 
+  **(3) Customer Segmentation Using RFM Analysis** - Personal Project 
+  1. [RFM Analysis Using MySQL](https://github.com/DA-dipali/Portfolio_Projects/blob/main/Customer%20Segmentation%20Using%20RFM%20Analysis/Customer%20Segmentation%20Using%20RFM.sql)
+  2. [RFM Analysis Using Power BI](https://github.com/DA-dipali/Portfolio_Projects/tree/main/Customer%20Segmentation%20Using%20RFM%20Analysis)
+
 
