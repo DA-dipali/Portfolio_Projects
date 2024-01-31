@@ -126,6 +126,7 @@ FROM rfm;
 ```
 
 This script is designed to segment customers into different categories based on their RFM scores, allowing for targeted marketing strategies and customer relationship management. Each category represents a different level of customer engagement and potential behavior.
+![1_YWJYf6hl1jo0RqjHkkw7Xw](https://github.com/DA-dipali/Portfolio_Projects/assets/155884974/030ff6e9-7baa-4e0d-ba55-5e6490bce446)
 
 **9. What products are most often sold together?**
 
@@ -167,7 +168,6 @@ ORDER BY frequency DESC;
 
 This query provides information on the frequency of unique combinations of product codes for orders with more than one distinct product. It can be useful for analyzing patterns and understanding customer purchasing behavior when multiple products are bought together.
 
-
 ## Key Performance Indicators
 1. Grouping sales by DEALSIZE, PRODUCTLINE, and YEAR_ID.
 2. The best month for sales in a specific year and revenue earned in that month.
@@ -175,21 +175,22 @@ This query provides information on the frequency of unique combinations of produ
 4. Who is our best customer?
 5. What products are most often sold together?
 
- 
  **Data Visualization Using Power BI** -
 
 **Ad hoc Analysis:** Ad hoc customer segmentation allows for flexibility in adapting to changing business needs and identifying unique customer groups that may not be apparent in traditional segmentation approaches. 
 
-To identify different parameters' impact on sales and sales trends over time, different charts such as Pareto, Bar, Funnel, and Area charts used.
+To identify different parameters' impact on sales and sales trends over time, different charts such as Pareto, Bar, Funnel, and Area charts were used.
 
-**RFM Analysis:** Segment score table and segment information table loaded into Power BI. Created RFM table using DAX measures, columns and table. Managed relationships in data models. Calculated Average Revenue Per User, Churn Status, Recency, Frequency, Monetary, Pareto Category, Top 3 Product category and so on. Implemented visuals to Identify the best, recent, hibernating, and loyal customers by using RFM scores.
+**RFM Analysis:** Segment score table and segment information table loaded into Power BI. Created RFM table using DAX measures, columns, and table. Managed relationships in data models. Calculated Average Revenue Per User, Churn Status, Recency, Frequency, Monetary, Pareto Category, Top 3 Product category and so on. Implemented visuals to Identify the best, recent, hibernating, and loyal customers by using RFM scores.
 
 ## Summary of Findings
  - Learned to analyze the transactional data variables used to perform customer segmentation based on customer purchase behavior.
  - Learned how to measure the three purchase behavior attributes, i.e., recency of purchase, Frequency of purchase, and monetary value of purchase.
  - Learned the calculation and logic behind RFM-Scores.
  - Learned how to create and name different customer groups based on their RFM scores.
- - Explored different features, functions, and visualizations in Tableau to analyze the customer groups
+ - Explored different features, functions, and visualizations in Tableau to analyze the customer groups.
+ - The Recommended Actions to be taken based on segments.
+     ![1_l5UZF8m91a4Zl8FULwNPJA](https://github.com/DA-dipali/Portfolio_Projects/assets/155884974/7d76181b-c4af-4b4a-8751-da61219f71f8)
 
 ## Conclusion
 
