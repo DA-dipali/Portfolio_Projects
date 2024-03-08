@@ -34,7 +34,7 @@ SELECT count(Attrition) AS AttirationCount  FROM employee_retention.hr_1
 WHERE Attrition="Yes";
 ```
 ```sql
-SELECT count(Attrition) AS AttirationCount  FROM employee_retention.hr_1
+SELECT count(Attrition) AS RetentionCount  FROM employee_retention.hr_1
 WHERE Attrition="No";
 ```
 The above 2 codes separate the 'Attrition' column values into Attrition Count and Retention Count for ease of analysis. 
